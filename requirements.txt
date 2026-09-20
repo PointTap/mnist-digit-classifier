@@ -1,6 +1,6 @@
 streamlit==1.25.0
 streamlit-drawable-canvas==0.9.3
-torch
-torchvision
+torch==2.2.0
+torchvision==0.17.0
 pillow
 numpy
