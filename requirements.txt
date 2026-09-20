@@ -1,3 +1,4 @@
+--only-binary=:all:
 streamlit==1.32.0
 streamlit-drawable-canvas==0.9.3
 torch==2.14.0
